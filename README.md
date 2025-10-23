@@ -58,3 +58,21 @@ This warehouse management system is designed to handle complete inventory lifecy
 |  - Processes all transactions during an accounting period. Calculates cost of goods sold using FIFO/LIFO/Weighted Average and computes period profit.
 |  - 会計期間中のすべての取引を処理します。FIFO/LIFO/加重平均法で売上原価を計算し、期間利益を算出します。
 ```
+### login
+![login](./image/login.png)
+### home
+![home](./image/home.png)
+### statistic
+![statistic](./image/statistic.png)
+### summary
+![summary](./image/summary.png)
+### detail
+![detail](./image/detail.png)
+### userManagement
+![userManagement](./image/userManagement.png)
+### addUser
+![addUser](./image/addUser.png)
+### deleteUser
+![deleteUser](./image/deleteUser.png)
+### setting
+![setting](./image/setting.png)
