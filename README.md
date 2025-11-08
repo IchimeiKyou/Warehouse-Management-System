@@ -32,7 +32,7 @@
 ![detail](./image/detail.png)
 - ### userManagement (ユーザー管理/用户管理)
 ![userManagement](./image/userManagement.png)
-- ### addUser (ユーザー追加/用户添加)
+- ### addUser (ユーザー作成/用户添加)
 ![addUser](./image/addUser.png)
 - ### deleteUser (ユーザー削除/用户删除)
 ![deleteUser](./image/deleteUser.png)
